@@ -17,8 +17,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adityak61/DSA_Journey/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
-## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adityak61/DSA_Journey/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+
 <!---LeetCode Topics End-->
