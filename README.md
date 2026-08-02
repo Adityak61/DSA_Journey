@@ -20,4 +20,12 @@
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Adityak61/DSA_Journey/tree/main/0242-valid-anagram/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adityak61/DSA_Journey/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0027-remove-element](https://github.com/Adityak61/DSA_Journey/tree/main/0027-remove-element/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0027-remove-element](https://github.com/Adityak61/DSA_Journey/tree/main/0027-remove-element/) | Easy |
 <!---LeetCode Topics End-->
