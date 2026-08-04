@@ -7,6 +7,7 @@
 | [0242-valid-anagram](https://github.com/Adityak61/DSA_Journey/tree/main/0242-valid-anagram/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Adityak61/DSA_Journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adityak61/DSA_Journey/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3731-find-missing-elements](https://github.com/Adityak61/DSA_Journey/tree/main/3731-find-missing-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -21,12 +22,14 @@
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Adityak61/DSA_Journey/tree/main/0242-valid-anagram/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adityak61/DSA_Journey/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3731-find-missing-elements](https://github.com/Adityak61/DSA_Journey/tree/main/3731-find-missing-elements/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Adityak61/DSA_Journey/tree/main/0027-remove-element/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Adityak61/DSA_Journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0877-stone-game](https://github.com/Adityak61/DSA_Journey/tree/main/0877-stone-game/) | Medium |
+| [3731-find-missing-elements](https://github.com/Adityak61/DSA_Journey/tree/main/3731-find-missing-elements/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
