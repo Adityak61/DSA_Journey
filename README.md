@@ -45,6 +45,7 @@
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Adityak61/DSA_Journey/tree/main/0013-roman-to-integer/) | Easy |
 | [0877-stone-game](https://github.com/Adityak61/DSA_Journey/tree/main/0877-stone-game/) | Medium |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Adityak61/DSA_Journey/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,4 +62,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/Adityak61/DSA_Journey/tree/main/0877-stone-game/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Adityak61/DSA_Journey/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
