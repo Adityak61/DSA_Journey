@@ -29,6 +29,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Adityak61/DSA_Journey/tree/main/0027-remove-element/) | Easy |
+| [0035-search-insert-position](https://github.com/Adityak61/DSA_Journey/tree/main/0035-search-insert-position/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Adityak61/DSA_Journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0877-stone-game](https://github.com/Adityak61/DSA_Journey/tree/main/0877-stone-game/) | Medium |
 | [3731-find-missing-elements](https://github.com/Adityak61/DSA_Journey/tree/main/3731-find-missing-elements/) | Easy |
@@ -66,4 +67,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Adityak61/DSA_Journey/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/Adityak61/DSA_Journey/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
