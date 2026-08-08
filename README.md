@@ -13,6 +13,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Adityak61/DSA_Journey/tree/main/0013-roman-to-integer/) | Easy |
+| [0058-length-of-last-word](https://github.com/Adityak61/DSA_Journey/tree/main/0058-length-of-last-word/) | Easy |
 | [0242-valid-anagram](https://github.com/Adityak61/DSA_Journey/tree/main/0242-valid-anagram/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adityak61/DSA_Journey/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Greedy
