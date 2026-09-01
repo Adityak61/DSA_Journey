@@ -39,6 +39,7 @@
 | [0027-remove-element](https://github.com/Adityak61/DSA_Journey/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Adityak61/DSA_Journey/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Adityak61/DSA_Journey/tree/main/0066-plus-one/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityak61/DSA_Journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Adityak61/DSA_Journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Adityak61/DSA_Journey/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0877-stone-game](https://github.com/Adityak61/DSA_Journey/tree/main/0877-stone-game/) | Medium |
@@ -51,6 +52,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Adityak61/DSA_Journey/tree/main/0027-remove-element/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityak61/DSA_Journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0763-partition-labels](https://github.com/Adityak61/DSA_Journey/tree/main/0763-partition-labels/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -88,6 +90,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Adityak61/DSA_Journey/tree/main/0035-search-insert-position/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityak61/DSA_Journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Adityak61/DSA_Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
