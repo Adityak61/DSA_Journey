@@ -19,6 +19,7 @@
 | [0013-roman-to-integer](https://github.com/Adityak61/DSA_Journey/tree/main/0013-roman-to-integer/) | Easy |
 | [0058-length-of-last-word](https://github.com/Adityak61/DSA_Journey/tree/main/0058-length-of-last-word/) | Easy |
 | [0242-valid-anagram](https://github.com/Adityak61/DSA_Journey/tree/main/0242-valid-anagram/) | Easy |
+| [0344-reverse-string](https://github.com/Adityak61/DSA_Journey/tree/main/0344-reverse-string/) | Easy |
 | [0763-partition-labels](https://github.com/Adityak61/DSA_Journey/tree/main/0763-partition-labels/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adityak61/DSA_Journey/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Greedy
@@ -53,6 +54,7 @@
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Adityak61/DSA_Journey/tree/main/0027-remove-element/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityak61/DSA_Journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0344-reverse-string](https://github.com/Adityak61/DSA_Journey/tree/main/0344-reverse-string/) | Easy |
 | [0763-partition-labels](https://github.com/Adityak61/DSA_Journey/tree/main/0763-partition-labels/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
