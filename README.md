@@ -63,6 +63,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityak61/DSA_Journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0344-reverse-string](https://github.com/Adityak61/DSA_Journey/tree/main/0344-reverse-string/) | Easy |
 | [0763-partition-labels](https://github.com/Adityak61/DSA_Journey/tree/main/0763-partition-labels/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Adityak61/DSA_Journey/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,4 +108,8 @@
 | [0643-maximum-average-subarray-i](https://github.com/Adityak61/DSA_Journey/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Adityak61/DSA_Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Adityak61/DSA_Journey/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Adityak61/DSA_Journey/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
