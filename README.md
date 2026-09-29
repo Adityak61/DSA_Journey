@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Adityak61/DSA_Journey/tree/main/0013-roman-to-integer/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Adityak61/DSA_Journey/tree/main/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/Adityak61/DSA_Journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Adityak61/DSA_Journey/tree/main/0242-valid-anagram/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adityak61/DSA_Journey/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -60,6 +61,7 @@
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Adityak61/DSA_Journey/tree/main/0027-remove-element/) | Easy |
 | [0125-valid-palindrome](https://github.com/Adityak61/DSA_Journey/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Adityak61/DSA_Journey/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityak61/DSA_Journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0344-reverse-string](https://github.com/Adityak61/DSA_Journey/tree/main/0344-reverse-string/) | Easy |
 | [0763-partition-labels](https://github.com/Adityak61/DSA_Journey/tree/main/0763-partition-labels/) | Medium |
@@ -111,5 +113,10 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Adityak61/DSA_Journey/tree/main/0141-linked-list-cycle/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Adityak61/DSA_Journey/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Adityak61/DSA_Journey/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
