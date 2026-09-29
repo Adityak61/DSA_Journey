@@ -66,6 +66,7 @@
 | [0344-reverse-string](https://github.com/Adityak61/DSA_Journey/tree/main/0344-reverse-string/) | Easy |
 | [0763-partition-labels](https://github.com/Adityak61/DSA_Journey/tree/main/0763-partition-labels/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Adityak61/DSA_Journey/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Adityak61/DSA_Journey/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +117,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Adityak61/DSA_Journey/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Adityak61/DSA_Journey/tree/main/0141-linked-list-cycle/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Adityak61/DSA_Journey/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Adityak61/DSA_Journey/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
