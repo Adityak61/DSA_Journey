@@ -29,6 +29,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0561-array-partition](https://github.com/Adityak61/DSA_Journey/tree/main/0561-array-partition/) | Easy |
 | [0763-partition-labels](https://github.com/Adityak61/DSA_Journey/tree/main/0763-partition-labels/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adityak61/DSA_Journey/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Sorting
@@ -36,6 +37,7 @@
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Adityak61/DSA_Journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Adityak61/DSA_Journey/tree/main/0242-valid-anagram/) | Easy |
+| [0561-array-partition](https://github.com/Adityak61/DSA_Journey/tree/main/0561-array-partition/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adityak61/DSA_Journey/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adityak61/DSA_Journey/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/Adityak61/DSA_Journey/tree/main/3731-find-missing-elements/) | Easy |
@@ -49,6 +51,7 @@
 | [0217-contains-duplicate](https://github.com/Adityak61/DSA_Journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adityak61/DSA_Journey/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Adityak61/DSA_Journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0561-array-partition](https://github.com/Adityak61/DSA_Journey/tree/main/0561-array-partition/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Adityak61/DSA_Journey/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0877-stone-game](https://github.com/Adityak61/DSA_Journey/tree/main/0877-stone-game/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Adityak61/DSA_Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -126,4 +129,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Adityak61/DSA_Journey/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0561-array-partition](https://github.com/Adityak61/DSA_Journey/tree/main/0561-array-partition/) | Easy |
 <!---LeetCode Topics End-->
