@@ -20,6 +20,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Adityak61/DSA_Journey/tree/main/0013-roman-to-integer/) | Easy |
+| [0020-valid-parentheses](https://github.com/Adityak61/DSA_Journey/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/Adityak61/DSA_Journey/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/Adityak61/DSA_Journey/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Adityak61/DSA_Journey/tree/main/0242-valid-anagram/) | Easy |
@@ -133,4 +134,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/Adityak61/DSA_Journey/tree/main/0561-array-partition/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Adityak61/DSA_Journey/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Adityak61/DSA_Journey/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
