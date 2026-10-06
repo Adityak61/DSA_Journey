@@ -120,6 +120,7 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Adityak61/DSA_Journey/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Adityak61/DSA_Journey/tree/main/0141-linked-list-cycle/) | Easy |
+| [0206-reverse-linked-list](https://github.com/Adityak61/DSA_Journey/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Adityak61/DSA_Journey/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Adityak61/DSA_Journey/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Floyd's Cycle Finding Algorithm
@@ -130,6 +131,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Adityak61/DSA_Journey/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0206-reverse-linked-list](https://github.com/Adityak61/DSA_Journey/tree/main/0206-reverse-linked-list/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
