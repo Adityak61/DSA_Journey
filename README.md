@@ -64,6 +64,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Adityak61/DSA_Journey/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0027-remove-element](https://github.com/Adityak61/DSA_Journey/tree/main/0027-remove-element/) | Easy |
 | [0125-valid-palindrome](https://github.com/Adityak61/DSA_Journey/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Adityak61/DSA_Journey/tree/main/0141-linked-list-cycle/) | Easy |
@@ -119,6 +120,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Adityak61/DSA_Journey/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Adityak61/DSA_Journey/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Adityak61/DSA_Journey/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Adityak61/DSA_Journey/tree/main/0206-reverse-linked-list/) | Easy |
