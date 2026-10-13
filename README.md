@@ -56,6 +56,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Adityak61/DSA_Journey/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0877-stone-game](https://github.com/Adityak61/DSA_Journey/tree/main/0877-stone-game/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Adityak61/DSA_Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1472-design-browser-history](https://github.com/Adityak61/DSA_Journey/tree/main/1472-design-browser-history/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Adityak61/DSA_Journey/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adityak61/DSA_Journey/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Adityak61/DSA_Journey/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -122,6 +123,7 @@
 | [0141-linked-list-cycle](https://github.com/Adityak61/DSA_Journey/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Adityak61/DSA_Journey/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Adityak61/DSA_Journey/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1472-design-browser-history](https://github.com/Adityak61/DSA_Journey/tree/main/1472-design-browser-history/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Adityak61/DSA_Journey/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -141,6 +143,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Adityak61/DSA_Journey/tree/main/0020-valid-parentheses/) | Easy |
 | [0225-implement-stack-using-queues](https://github.com/Adityak61/DSA_Journey/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [1472-design-browser-history](https://github.com/Adityak61/DSA_Journey/tree/main/1472-design-browser-history/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,8 +152,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Adityak61/DSA_Journey/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [1472-design-browser-history](https://github.com/Adityak61/DSA_Journey/tree/main/1472-design-browser-history/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Adityak61/DSA_Journey/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/Adityak61/DSA_Journey/tree/main/1472-design-browser-history/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/Adityak61/DSA_Journey/tree/main/1472-design-browser-history/) | Medium |
 <!---LeetCode Topics End-->
