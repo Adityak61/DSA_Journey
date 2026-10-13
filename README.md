@@ -122,6 +122,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Adityak61/DSA_Journey/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Adityak61/DSA_Journey/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Adityak61/DSA_Journey/tree/main/0206-reverse-linked-list/) | Easy |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Adityak61/DSA_Journey/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Adityak61/DSA_Journey/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1472-design-browser-history](https://github.com/Adityak61/DSA_Journey/tree/main/1472-design-browser-history/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Adityak61/DSA_Journey/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -160,9 +161,14 @@
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Adityak61/DSA_Journey/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [1472-design-browser-history](https://github.com/Adityak61/DSA_Journey/tree/main/1472-design-browser-history/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1472-design-browser-history](https://github.com/Adityak61/DSA_Journey/tree/main/1472-design-browser-history/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Adityak61/DSA_Journey/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 <!---LeetCode Topics End-->
